@@ -1,0 +1,4 @@
+1¡¢Neural networks for oil spill detection using ERS-SAR data
+2¡¢Advances in Remote Sensing for Oil Spill Disaster Management: State-of-the-Art Sensors Technology for Oil Spill Surveillance£¨*£©
+3¡¢Machine learning for the detection of oil spills in satellite radar images
+4¡¢Use Of Landsat Data For The Detection Of Marine Oil Slicks£¨*£©
